@@ -1,1 +1,1 @@
-# drt-sc-ping-pong
+# ping-pong-smart-contract
